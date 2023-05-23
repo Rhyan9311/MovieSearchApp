@@ -1,0 +1,15 @@
+{
+  "name": "moviesearchapp",
+  "version": "2.0.0",
+  "description": "Some boilerplate code to get you started - get shakin'!",
+  "main": "index.js",
+  "dependencies": {
+    "brain.js": "^2.0.0-beta.23",
+    "express": "^4.18.2",
+    "lodash": "^4.17.21",
+    "morgan": "^1.10.0",
+    "openai": "^3.2.1",
+    "react": "^18.2.0",
+    "require": "^2.4.20"
+  }
+}
